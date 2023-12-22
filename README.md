@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: fifi_CSbear](https://img.shields.io/twitter/follow/fifi_luckybear)](https://twitter.com/fifi_luckybear)
-[![Linkedin: Qiwen (Fiona) Xiong](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiona-xiong/)
+[![Linkedin: Qiwen (Fiona) Xiong](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fiona-xiong/)](https://www.linkedin.com/in/fiona-xiong/)
 [![GitHub Fiona Xiong](https://img.shields.io/github/followers/thaiane?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/fifi1120))
 
 
@@ -13,15 +13,14 @@
 ```javascript
 const fiona = {
   pronouns: "she" | "her",
-  Programming Languages: [Python, Java, C, C++, JavaScript, SQL, R, HTML, CSS],
-  Frameworks: [Node.js, Express.js, Django, React, D3.js, Material-UI, Bootstrap],
-  Database: [MySQL, MongoDB, PostgreSQL],
+  languages: [Python, Java, C, C++, JavaScript, SQL, R, HTML, CSS],
+  frameworks: [Node.js, Express.js, Django, React, D3.js, Material-UI, Bootstrap],
+  database: [MySQL, MongoDB, PostgreSQL],
   techCommunities: {
-                        student ambassador: "Adobe",
-                        contributor: "SV Hackers Club",
-                        member: "Girls Who Code"
+                        studentAmbassador: "Adobe",
+                        contributor: "SVHackersClub",
+                        member: "GirlsWhoCode"
                    },
-   One thing about me: "I love coding."
 }
 ```
 
