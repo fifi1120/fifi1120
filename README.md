@@ -30,3 +30,5 @@ const fiona = {
 <em><b>I am seeking internship / Co-op for 2024.</b> if you have any available positions, please kindly reach out to me at xiong.qiw@northeastern.edu. Thank you! :)</em>
 
 ---
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=fifi1120&count_private=true&show_icons=true" alt="fifi1120" />
