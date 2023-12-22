@@ -9,7 +9,7 @@
 [![GitHub Fiona Xiong](https://img.shields.io/github/followers/fifi1120?label=follow&style=social)](https://github.com/fifi1120)
 
 
-### Tech Info about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const fiona = {
@@ -25,8 +25,8 @@ const fiona = {
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am seeking internship / Co-op for 2024.</b> if you have any available positions, please kindly reach out to me at xiong.qiw@northeastern.edu. Thank you! :)</em>
+<em><b>I am seeking internship / Co-op for 2024.</b> if you have any available positions, please kindly reach out to me at xiong.qiw@northeastern.edu. Thank you! :)</em>
 
 ---
