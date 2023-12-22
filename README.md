@@ -1,11 +1,11 @@
 <h2> Hi there, I'm Fiona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>CS Student & Graduate Teaching Assistant & Student Ambassador at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Engineering Intern at <a href="https://pranos.ai">Pranos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Content Creator with 6000+ followers at <a href="https://www.xiaohongshu.com/user/profile/5703d3c5aed7584d91382502">Redbook</a> and <a href="https://weibo.com/u/5178854538">Weibo</a>
+<p><em>CS Student & Graduate Teaching Assistant & Student Ambassador at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University</a></br>Engineering Intern at <a href="https://pranos.ai">Pranos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Content Creator with 6000+ followers at <a href="https://www.xiaohongshu.com/user/profile/5703d3c5aed7584d91382502">Redbook</a> and <a href="https://weibo.com/u/5178854538">Weibo</a>
 
 </em></p>
 
 [![Twitter: fifi_CSbear](https://img.shields.io/twitter/follow/fifi_luckybear)](https://twitter.com/fifi_luckybear)
-[![Linkedin: Qiwen (Fiona) Xiong](https://img.shields.io/badge/-fiona-xiong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fiona-xiong/)](https://www.linkedin.com/in/fiona-xiong/)
+[!Linkedin: fiona-xiong](https://img.shields.io/badge/-fiona-xiong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fiona-xiong/)](https://www.linkedin.com/in/fiona-xiong/)
 [![GitHub Fiona Xiong](https://img.shields.io/github/followers/fifi1120?label=follow&style=social)](https://github.com/fifi1120)
 
 
