@@ -14,9 +14,9 @@
 ```javascript
 const fiona = {
   pronouns: "she" | "her",
-  languages: [Python, Java, C, C++, JavaScript, SQL, R, HTML, CSS],
-  frameworks: [Node, Express, Django, React, D3, Material-UI, Bootstrap],
-  database: [MySQL, MongoDB, PostgreSQL],
+  languages: [“Python”, “Java”, “C”, “C++”, “JavaScript”, “SQL”, “R”, “HTML”, “CSS”],
+  frameworks: [“Node”, “Express”, “Django”, “React”, “D3”, “Material-UI”, “Bootstrap”],
+  database: [“MySQL”, “MongoDB”, “PostgreSQL”],
   techCommunities: {
                         studentAmbassador: "Adobe",
                         contributor: "SVHackersClub",
@@ -25,7 +25,7 @@ const fiona = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ;D</em></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so feel free to say HI 👋! ;D</em></p>
 
 ---
 
