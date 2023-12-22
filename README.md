@@ -31,4 +31,4 @@ const fiona = {
 
 ---
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=fifi1120&count_private=true&show_icons=true" alt="fifi1120" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=fifi1120&count_private=true&show_icons=true" alt="fiona" />
