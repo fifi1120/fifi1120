@@ -1,4 +1,4 @@
-<h2> Hi, I'm Fiona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Fiona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">I am seeking internship / Co-op for 2024.</h2> 
 
 <p><em>CS Student & Teaching Assistant at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University</a></br>Software Engineering Intern at <a href="https://pranos.ai">Pranos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Passionate CS learner - check out my newly created GPT-based tool <a href="https://chat.openai.com/g/g-rPnQ5jtrU-best-cover-letter">'Best Cover Letter'</a></br>Content Creator with 6000+ followers at <a href="https://www.xiaohongshu.com/user/profile/5703d3c5aed7584d91382502">Redbook</a> and <a href="https://weibo.com/u/5178854538">Weibo</a></br>Writer at <a href="https://www.linkedin.com/feed/update/urn:li:activity:7129630775590748161/">LinkedIn</a>
 
@@ -26,8 +26,6 @@ const fiona = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ;D</em></p>
-
-<em><b>I am seeking internship / Co-op for 2024.</b> if you have any available positions, please kindly reach out to me at xiong.qiw@northeastern.edu. Thank you! :)</em>
 
 ---
 
