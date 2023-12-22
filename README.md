@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Fiona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>CS Student & Teaching Assistant at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University</a></br>Software Engineering Intern at <a href="https://pranos.ai">Pranos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Content Creator with 6000+ followers at <a href="https://www.xiaohongshu.com/user/profile/5703d3c5aed7584d91382502">Redbook</a> and <a href="https://weibo.com/u/5178854538">Weibo</a></br>Passionate CS learner - check out my newly created GPT-based tool 'Best Cover Letter'<a href="https://chat.openai.com/g/g-rPnQ5jtrU-best-cover-letter"</a>
+<p><em>CS Student & Teaching Assistant at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University</a></br>Software Engineering Intern at <a href="https://pranos.ai">Pranos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Content Creator with 6000+ followers at <a href="https://www.xiaohongshu.com/user/profile/5703d3c5aed7584d91382502">Redbook</a> and <a href="https://weibo.com/u/5178854538">Weibo</a></br>Passionate CS learner - check out my newly created GPT-based tool 'Best Cover Letter'<a href="https://chat.openai.com/g/g-rPnQ5jtrU-best-cover-letter"></a>
 
 </em></p>
 
