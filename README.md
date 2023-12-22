@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2> Hi, I'm Fiona Xiong! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>CS Student & Graduate Teaching Assistant & Student Ambassador at <a href="[https://studentlife.bayarea.northeastern.edu/student-ambassadors/]">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Engineering Intern at <a href="https://pranos.ai">Pranos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Content Creator with 6000+ followers at <a href="[https://www.xiaohongshu.com/user/profile/5703d3c5aed7584d91382502]>Redbook and <a href="[https://weibo.com/u/5178854538]>Weibo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
 
-<!--
-**fifi1120/fifi1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: fifi_CSbear](https://img.shields.io/twitter/follow/fifi_luckybear)](https://twitter.com/fifi_luckybear)
+[![Linkedin: Qiwen (Fiona) Xiong](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiona-xiong/)
+[![GitHub Fiona Xiong](https://img.shields.io/github/followers/thaiane?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/fifi1120))
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Basic Info about me...  
+
+```javascript
+const fiona = {
+  pronouns: "she" | "her",
+  Programming Languages: [Python, Java, C, C++, JavaScript, SQL, R, HTML, CSS],
+  Frameworks: [Node.js, Express.js, Django, React, D3.js, Material-UI, Bootstrap],
+  Database: [MySQL, MongoDB, PostgreSQL],
+  techCommunities: {
+                        student ambassador: "Adobe",
+                        contributor: "SV Hackers Club",
+                        member: "Girls Who Code"
+                   },
+   One thing about me: "I love coding."
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am looking for internship / Co-op for 2024</b> so if you have any opportunities, <b>please kindly reach out me at: xiong.qiw@northeastern.edu</b> :)</em>
+
+---
