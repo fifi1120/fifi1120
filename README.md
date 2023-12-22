@@ -24,7 +24,7 @@ const fiona = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>I love connecting with different people, <b>so feel free to say HI 👋</b> ;D</em></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>I love connecting with different people, <b>so feel free to say Hi 👋</b> :D</em></p>
 
 ---
 
