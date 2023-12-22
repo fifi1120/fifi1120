@@ -5,11 +5,11 @@
 </em></p>
 
 [![Twitter: fifi_CSbear](https://img.shields.io/twitter/follow/fifi_luckybear)](https://twitter.com/fifi_luckybear)
-[!Linkedin: fiona-xiong](https://img.shields.io/badge/-fiona-xiong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fiona-xiong/)](https://www.linkedin.com/in/fiona-xiong/)
+[!Linkedin: fiona-xiong](https://img.shields.io/badge/-fionaxiong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fiona-xiong/)](https://www.linkedin.com/in/fiona-xiong/)
 [![GitHub Fiona Xiong](https://img.shields.io/github/followers/fifi1120?label=follow&style=social)](https://github.com/fifi1120)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Basic Info about me...  
+### Tech Info about me...  
 
 ```javascript
 const fiona = {
