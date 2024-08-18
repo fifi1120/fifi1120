@@ -13,8 +13,8 @@
 ```javascript
 const fiona = {
   pronouns: "she" | "her",
-  languages: [“Python”, “Java”, “C”, “JavaScript”, “SQL”, “R”, “HTML”, “CSS”],
-  frameworks: [“Node”, “Express”, “Django”, “React”, “D3”, “MaterialUI”, “Bootstrap”],
+  languages: [“Python”, “Java”, "Ruby", "TypeScript", “C”, “JavaScript”, “SQL”, “R”, “HTML”, “CSS”],
+  frameworks: [“Node”, “Express”, “Django”, “React”, "Springboot", “D3”, “MaterialUI”, “Bootstrap”],
   database: [“MySQL”, “MongoDB”, “PostgreSQL”],
   techCommunities: {
                         studentAmbassador: "Adobe",
