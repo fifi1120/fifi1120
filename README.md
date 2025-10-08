@@ -16,9 +16,9 @@
 ```javascript
 const fiona = {
   pronouns: "she" | "her",
-  languages: [“Java”, “Python”, “JavaScript”, "Ruby", "TypeScript", “C#”],
-  frameworks: [“MERN”, “Django”, “React”, "SpringBoot"],
-  database: [“MySQL”, “MongoDB”, “PostgreSQL”],
+  languages: ["Java", "Python", "JavaScript", "Ruby", "TypeScript", "C#"],
+  frameworks: ["MERN", "Django", "React", "SpringBoot"],
+  database: ["MySQL", "MongoDB", "PostgreSQL"],
   techCommunities: {
                         studentAmbassador: "Adobe",
                         contributor: "SVHackersClub",
