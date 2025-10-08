@@ -1,4 +1,4 @@
-<h2> Hi, I'm Fiona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Open to SDE/MLE Roles for 2025.</h2> 
+<h2> Hi, I'm Fiona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Open to SDE/MLE/AIE Roles.</h2> 
 
 <p><em>Software Development Engineer at <a href="https://aws.amazon.com/redshift/">Amazon Web Services (AWS) - Redshift Concurrency Scaling Team</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a>
 </br>LLM + RL Researcher & MSCS' 25 (GPA: 4.0, Concentration: AI/LLM) at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University</a>
