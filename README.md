@@ -16,13 +16,13 @@
 ```javascript
 const fiona = {
   pronouns: "she" | "her",
-  languages: [“Python”, “Java”, "Ruby", "TypeScript", “C”, “JavaScript”, “SQL”, “R”, “HTML”, “CSS”],
-  frameworks: [“Node”, “Express”, “Django”, “React”, "Springboot", “D3”, “MaterialUI”, “Bootstrap”],
+  languages: [“Java”, “Python”, “JavaScript”, "Ruby", "TypeScript", “C#”],
+  frameworks: [“MERN”, “Django”, “React”, "SpringBoot"],
   database: [“MySQL”, “MongoDB”, “PostgreSQL”],
   techCommunities: {
                         studentAmbassador: "Adobe",
                         contributor: "SVHackersClub",
-                        member: "GirlsWhoCode"
+                        member: "GirlsWhoCode",
                    },
 }
 ```
