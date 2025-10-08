@@ -2,7 +2,7 @@
 
 <p><em>Software Development Engineer at <a href="https://aws.amazon.com/redshift/">Amazon Web Services (AWS) - Redshift Concurrency Scaling Team</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a>
 
-</br>LLM + RL Researcher & MSCS Student at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University
+</br>LLM + RL Researcher & MSCS' 25 at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University (GPA: 4.0, Concentration: AI/LLM)
 
 </br>Passionate CS learner - check out my newly created GPT-based tool <a href="https://chat.openai.com/g/g-rPnQ5jtrU-best-cover-letter">'Best Cover Letter'</a>
 
