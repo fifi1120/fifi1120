@@ -2,11 +2,13 @@
 
 <p><em>Software Development Engineer at <a href="https://aws.amazon.com/redshift/">Amazon Web Services (AWS) - Redshift Concurrency Scaling Team</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a>
 
-</br>LLM + RL Researcher & MSCS Student at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University</br> 
+</br>LLM + RL Researcher & MSCS Student at <a href="https://studentlife.bayarea.northeastern.edu/student-ambassadors/">Northeastern University
 
-</br>Passionate CS learner - check out my newly created GPT-based tool <a href="https://chat.openai.com/g/g-rPnQ5jtrU-best-cover-letter">'Best Cover Letter'</a></br>
+</br>Passionate CS learner - check out my newly created GPT-based tool <a href="https://chat.openai.com/g/g-rPnQ5jtrU-best-cover-letter">'Best Cover Letter'</a>
 
-</br>Content Creator with 10,000+ followers at <a href="https://www.xiaohongshu.com/user/profile/5703d3c5aed7584d91382502">Redbook</a> and <a href="https://weibo.com/u/5178854538">Weibo</a></br>Writer at <a href="https://www.linkedin.com/feed/update/urn:li:activity:7129630775590748161/">LinkedIn</a> and <a href="https://medium.com/@xinyiwanshi">Medium</a>
+</br>Content Creator with 10,000+ followers at <a href="https://www.xiaohongshu.com/user/profile/5703d3c5aed7584d91382502">Redbook</a> and <a href="https://weibo.com/u/5178854538">Weibo</a>
+
+</br>Writer at <a href="https://www.linkedin.com/feed/update/urn:li:activity:7129630775590748161/">LinkedIn</a> and <a href="https://medium.com/@xinyiwanshi">Medium</a>
 
 </em></p>
 
